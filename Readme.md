@@ -5,19 +5,24 @@
    1. Authentication and Authorization 
    2. Routing
    3. Custom Library/Components
-#### 2. NodeJS
+#### 2. NextJS
+   1. Dave Gray
 
-------------
 ------------
 
 ## React
 
 ### Authentication and Authorization
-1. **Basic role based authentication by cosden solutions** -> cosden-solutions-role-based-authentication
+1. **Basic role based authentication by cosden solutions** -> REACT/cosden-solutions-role-based-authentication
 
 ### Routing
-1. **Custom routing** -> component-lib-basic-udemy
-2. **React Router Dom** -> routing-npm-registry-udemy
+1. **Custom routing** -> REACT/component-lib-basic-udemy
+2. **React Router Dom** -> REACT/routing-npm-registry-udemy
 
 ### Custom Library/Components
-1. **Custom routing** -> component-lib-basic-udemy
+1. **Custom routing** -> REACT/component-lib-basic-udemy
+
+## NextJS
+
+### Dave Gray Tutorials
+1. **Learning Playlist** -> NEXTJS/Dave-Gray/NextJS-playlist
